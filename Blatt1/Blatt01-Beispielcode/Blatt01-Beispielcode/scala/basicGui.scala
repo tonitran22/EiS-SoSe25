@@ -26,7 +26,7 @@ object SwingHellowWorld extends App { // a fancy way of creating an application
     // first, two new buttons
     var buttonDialog = new JButton("show dialog")
     var buttonQuit = new JButton("quit")
-    var button42 = new Jbutton("42")
+    var button42 = new JButton("42")
     // then, a panel, where the buttons are put into
     var panel = new JPanel()
     // and a layout, for the panel to arrange the buttons
